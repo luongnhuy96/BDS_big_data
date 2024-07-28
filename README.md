@@ -1,4 +1,4 @@
-# Xây dựng đồ án big data ứng dụng Mongodb và tableau để ETL dữ liệu crawl được sàn MOGY
+# Xây dựng đồ án big data ứng dụng Mongodb, Pyspark và tableau để ETL dữ liệu crawl được sàn MOGY và predict giá nhà
 GVHD: PGS.TS. Nguyễn Thanh Bình
 
 ## Architecture
