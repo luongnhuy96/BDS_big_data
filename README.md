@@ -4,7 +4,7 @@ GVHD: PGS.TS. Nguyễn Thanh Bình
 ## Architecture
 <img src="https://github.com/luongnhuy96/UngdungNLP/blob/main/images/BDS%20architect.jpg">
 
-###Application
+##Application
 Sử dụng pyspark để tự động quá trình machine learning để dự đoán giá nhà, kết quả được ghi nhận vào mongodb và visualize bằng tableau
 
 <img src="https://github.com/luongnhuy96/UngdungNLP/blob/main/images/Bank%20map%20ATM.jpg">
